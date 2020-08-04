@@ -11,6 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="sandunisuru.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sandun | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sandun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Sandun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sandun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -52,3 +53,4 @@
 [linkedin]: https://www.linkedin.com/in/sandun-isuru-niraj/
 [workplace]: https://www.99xtechnology.com/
 [webdevplaylist]: https://sandunisuru.tech
+[facebook]: https://www.facebook.com/sandun.isuru.niraj
