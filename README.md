@@ -46,6 +46,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy your Dotnet API to the Heroku](https://medium.com/@sandun.isuru/deploy-your-dotnet-api-to-the-heroku-ff18c8cba6e7?source=rss-eb9e38c0bf33------2)
+- [How to deploy NodeJS + Express app to Firebase as Function?](https://medium.com/@sandun.isuru/how-to-deploy-nodejs-express-app-to-firebase-as-function-31515c304e70?source=rss-eb9e38c0bf33------2)
+- [Playing with Translation in Google Translate API](https://medium.com/@sandun.isuru/playing-with-translation-in-google-translate-api-14641e1af85d?source=rss-eb9e38c0bf33------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
