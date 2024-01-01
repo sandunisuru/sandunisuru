@@ -1,12 +1,12 @@
 
 ### Hi there, I'm Sandun Isuru Niraj, Welcome to my Github 👋
 
-## I'm a Software Engineer, Nature Lover, Geek, Volunteer
-- 🔭 I’m currently working as a Software Engineer @ [99X Technology][workplace]
+## I'm a Senior Software Engineer, NodeJS and React Expert, AWS Cloud Expert and a Technology Enthusiast
+- 🔭 I’m currently working as a Senior Software Engineer @ [99X Technology][workplace]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play online games
+- 🥅 2024 Goals: Learn more things about Machine Learning
+- ⚡ Fun fact: I love to play games
 
 ### Connect with me:
 
@@ -46,6 +46,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Edit Office Documents on Server using Local office client with WebDAV](https://medium.com/@sandunisuru/edit-office-documents-on-server-using-local-office-client-with-webdav-5df9f910a330)
+- [Deploying .Net Core Application to AWS App Runner with CDK](https://medium.com/99xtechnology/deploying-net-core-application-to-aws-app-runner-with-cdk-d271744c8a6c)
+- [Handling Failed Messages in AWS Simple Queue Service (SQS)](https://medium.com/99xtechnology/handling-failed-messages-in-aws-simple-queue-service-sqs-4d4e50cd252c)
 - [Build and Test Pipelines with Azure](https://medium.com/@sandun.isuru/build-and-test-pipelines-with-azure-1a349a3199f?source=rss-eb9e38c0bf33------2)
 - [Deploy your Dotnet API to the Heroku](https://medium.com/@sandun.isuru/deploy-your-dotnet-api-to-the-heroku-ff18c8cba6e7?source=rss-eb9e38c0bf33------2)
 - [How to deploy NodeJS + Express app to Firebase as Function?](https://medium.com/@sandun.isuru/how-to-deploy-nodejs-express-app-to-firebase-as-function-31515c304e70?source=rss-eb9e38c0bf33------2)
@@ -53,7 +56,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sandun-Isuru-Niraj&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandunisuru&show_icons=true&hide_border=true" />
 
 [website]: https://sandunisuru.tech
 [twitter]: https://twitter.com/sandun_isuru
