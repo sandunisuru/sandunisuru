@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Sandun Isuru Niraj, Welcome to my Github 👋
 
-## I'm a Senior Software Engineer, NodeJS and React Expert, AWS Cloud Expert and a Technology Enthusiast
-- 🔭 I’m currently working as a Senior Software Engineer @ [99X Technology][workplace]
+## I'm a Associate Technical Lead, NodeJS and React Expert, AWS Cloud Expert and a Technology Enthusiast
+- 🔭 I’m currently working as a Associate Technical Lead @ [99X Technology][workplace]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn more things about Machine Learning
